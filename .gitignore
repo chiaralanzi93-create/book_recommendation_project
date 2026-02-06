@@ -7,3 +7,13 @@ notebooks/.DS_Store
 .DS_Store
 *.in
 /sql/
+# Jupyter / VS Code
+.virtual_documents/
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local env / cache
+anaconda_projects/
