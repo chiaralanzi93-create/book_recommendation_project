@@ -13,7 +13,6 @@
 ![Requests](https://img.shields.io/badge/Requests-HTTP%20Library-005500?style=flat&logo=python&logoColor=white)
 ![Time](https://img.shields.io/badge/Time-3776AB?style=flat&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![SBERT](https://img.shields.io/badge/SBERT-Sentence--Transformers-3465A4?style=flat&logo=huggingface&logoColor=white)
 ![TF-DF](https://img.shields.io/badge/TF--DF-TensorFlow--Decision--Forests-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
