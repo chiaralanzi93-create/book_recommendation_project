@@ -1,6 +1,8 @@
 # 📖 Book Recommender App Project 
 [Book Recommender App] is a context-aware engine designed to solve *Choice Overload* in the reading world. While traditional platforms rely on static genres, authors etc, we match readers with the perfect book for their specific moment.
 
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
@@ -17,13 +19,13 @@
 ![TF-DF](https://img.shields.io/badge/TF--DF-TensorFlow--Decision--Forests-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
----
 
 ## 📚Project Background & Overview
 
 **The Friction: Decision Paralysis**
 
 Users often spend more time browsing than reading, and half of them do not even finish the book. This "Paradox of Choice" leads to fatigue, where the sheer volume of options prevents any decision from being made.
+
 
 **The Fix: Contextual Recommendation**
 
