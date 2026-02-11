@@ -22,14 +22,10 @@
 
 ## 📚Project Background & Overview
 
-**The Friction: Decision Paralysis**
-
-Users often spend more time browsing than reading, and half of them do not even finish the book. This "Paradox of Choice" leads to fatigue, where the sheer volume of options prevents any decision from being made.
+- **The Friction: Decision Paralysis** : Users often spend more time browsing than reading, and half of them do not even finish the book. This "Paradox of Choice" leads to fatigue, where the sheer volume of options prevents any decision from being made.
 
 
-**The Fix: Contextual Recommendation**
-
-We replace choice fatigue with Situational Matching. Instead of asking "What genre do you like?", we ask "What is your current moment?"
+- **The Fix: Contextual Recommendation** : We replace choice fatigue with Situational Matching. Instead of asking "What genre do you like?", we ask "What is your current moment?"
 
 
 ## 📊 Data Architecture
@@ -37,7 +33,7 @@ We replace choice fatigue with Situational Matching. Instead of asking "What gen
 | Pillar                       | Source                                                    | Key Features / Data Points                                                                   |
 | :----------------------------- | :-------------------------------------------------------- | :----------------------------------------------------------------------------------------- |
 | **Top Rated Fictions**             | Goodreads Web Scraping                               |  Title, Author, Genre, Rating, Description, Number of pages, ISBN, Language, Published Year, Book Cover Image, Link to the book    |
-| **Popular Non-Fictions(Historical, Biography)**         | Open Library API                            | Title, Author, Genre, Rating, Rating counts, Description, Number of pages, ISBN, Language, Published Year, Book Cover Image, Link to the book   |                             
+| **Popular Non-Fictions (Historical, Biography)**         | Open Library API                            | same as above   |                             
 
 
 ##  📈 Executive Summary
