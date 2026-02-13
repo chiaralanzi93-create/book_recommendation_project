@@ -66,5 +66,5 @@ Our EDA revealed that a reader's environment dictates their expectations:
 
 - **Omnichannel**: Expanding affiliate links (Dussmann, etc.) and In-Shop retail tools.
 
-Presentation Slides [here]() 
+Presentation Slides [here](https://www.canva.com/design/DAHA13XBb2w/g3EJEC8fQAmwrlRQdTMJCA/edit?utm_content=DAHA13XBb2w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
